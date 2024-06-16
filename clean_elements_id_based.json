@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "placeholder": "Enter your username"
+    },
+    {
+        "id": 1,
+        "placeholder": "Enter your password"
+    },
+    {
+        "id": 2,
+        "text": "Sign in"
+    },
+    {
+        "id": 3,
+        "text": "seleniumbase.io/simple/signup"
+    }
+]

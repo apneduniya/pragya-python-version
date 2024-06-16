@@ -1,0 +1,34 @@
+[
+    {
+        "text": "",
+        "type": "input",
+        "ariaLabel": "",
+        "path": "id(\"username\")",
+        "placeholder": "Enter your username",
+        "label": ""
+    },
+    {
+        "text": "",
+        "type": "input",
+        "ariaLabel": "",
+        "path": "id(\"password\")",
+        "placeholder": "Enter your password",
+        "label": ""
+    },
+    {
+        "text": "Sign in",
+        "type": "a",
+        "ariaLabel": "",
+        "path": "id(\"log-in\")",
+        "placeholder": "",
+        "label": ""
+    },
+    {
+        "text": "seleniumbase.io/simple/signup",
+        "type": "a",
+        "ariaLabel": "",
+        "path": "BODY/DIV[1]/DIV[1]/FORM[1]/DIV[3]/H6[1]/A[1]",
+        "placeholder": "",
+        "label": ""
+    }
+]

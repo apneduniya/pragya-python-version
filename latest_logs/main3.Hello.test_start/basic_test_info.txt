@@ -1,0 +1,14 @@
+main3.py::Hello::test_start
+--------------------------------------------------------------------
+Last Page: https://www.google.com/
+ Duration: 2.36s
+  Browser: Chrome 124.0.6367.78
+   Driver: chromedriver 124.0.6367.78
+Timestamp: 1713966999  (Unix Timestamp)
+     Date: Wednesday, 24 April 2024
+     Time: 7:26:39 PM  (IST, UTC+05:30)
+--------------------------------------------------------------------
+Traceback:
+  File "/home/thatsmeadarsh/myprograms/pragya/main3.py", line 9, in test_start
+    driver.wait(5)
+Exception: 'WebDriver' object has no attribute 'wait'
